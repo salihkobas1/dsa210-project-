@@ -54,13 +54,17 @@ The data for this project comes from:
 ---
 
 ## Tools
-- **Python**: Core programming language for data analysis and visualization.
-- **Pandas**: For data manipulation and preprocessing.
-- **Matplotlib & Seaborn**: For creating insightful visualizations.
-- **Tabula / Camelot**: For extracting tabular data from PDF files.
-- **Numpy**: For numerical computations.
-- **Regex**: For parsing and categorizing transaction descriptions.
-- **Jupyter Notebook**: For interactive data exploration and analysis.
+
+- [Python](https://www.python.org/): Core programming language for data analysis and visualization.
+- [Pandas](https://pandas.pydata.org/): For data manipulation and preprocessing.
+- [Matplotlib](https://matplotlib.org/): For creating visualizations.
+- [Seaborn](https://seaborn.pydata.org/): For advanced statistical visualizations.
+- [Tabula](https://tabula.technology/): For extracting tabular data from PDF files.
+- [Camelot](https://camelot-py.readthedocs.io/): For high-accuracy PDF table extraction.
+- [Numpy](https://numpy.org/): For numerical computations.
+- [Regex (Python re module)](https://docs.python.org/3/library/re.html): For parsing and categorizing transaction descriptions.
+- [Jupyter Notebook](https://jupyter.org/): For interactive data exploration and analysis.
+
 
 ---
 
