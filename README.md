@@ -17,7 +17,7 @@ I have been interested in finance from my childhood and I have always tried to a
 ## Data Source
 The data for this project comes from:
 1. **Bank Statements**: Provided as PDF files, containing detailed transaction information.
-2. **External Data**: Contextual data like exam schedules (e.g., from MySu), vacationd dates and sports events (e.g., Fenerbahçe matches).
+2. **External Data**: Contextual data like exam schedules (e.g., from MySu), vacation dates and sports events (e.g., Fenerbahçe matches).
 
 ---
 
