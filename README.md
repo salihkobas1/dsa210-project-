@@ -1,4 +1,4 @@
-# Analysis of Personal Expenses and Understanding of the Periodical Relationship Between These Expenses
+# Analysis of Personal Expenses and Understanding Periodical Relationship Between These Expenses
 
 ## Project Overview
 In this project, I will analyze my personal spending habits over the last two years using data extracted from my bank statements. The goal is to uncover insights into my spending patterns by categorizing transactions, analyzing trends, and identifying correlations if there any. Moreover, I will focus to specific periods, such as exam times, holiday periods and sports events, to explore the impact of these events or terms on my spending behavior.
