@@ -1,6 +1,6 @@
 # DSA210 Project
 
-This repository contains the implementation of the DSA210 Project, which focuses on analyzing personal spending habits over two years using categorized transaction data. The goal of this project is to identify meaningful trends, evaluate the impact of events on expenditures, and provide actionable insights for financial planning and budget optimization.
+This repository contains the implementation of the DSA210 Project, which I focused on analyzing my personal spending habits over two years using categorized transaction data which I took from my bank account. The goal of this project is to identify meaningful trends, evaluate the impact of events on expenditures, and provide actionable insights for  future financial planning and budget optimization.
 
 ---
 
