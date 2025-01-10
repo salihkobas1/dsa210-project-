@@ -4,43 +4,16 @@ This repository contains the implementation of the DSA210 Project, which I focus
 
 ---
 
-## Installation
-
-To run the project locally, you can follow these steps:
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) installed
-- [Git](https://git-scm.com/) installed
-
-### Steps
-
-1. Clone the repository:
-    bash
-    git clone https://github.com/salihkobas1/dsa210-project.git
-    
-2. Navigate to the project folder:
-    bash
-    cd dsa210-project
-    
-3. Install dependencies:
-    bash
-    npm install
-    
-4. Start the development server:
-    bash
-    npm start
-    
-
----
-
-## Deployment
+## Presentation
 
 Please visit my webpage for presentation :))))  
 
 [Website Live Application](https://dsa210-project-rg7s.vercel.app)
 
+    
+
 ---
+
 
 ## Features of my project
 
@@ -110,6 +83,36 @@ Key visualizations included in the application:
 - *utils/*: Contains the DataAnalysis.ipynb file, which provides Python-based analysis scripts for preprocessing data and generating insights. This file can be executed using Jupyter Notebook to reproduce the data analysis.
 
 ---
+## Installation
+
+To run the project locally, you can follow these steps:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed
+- [Git](https://git-scm.com/) installed
+
+### Steps
+
+1. Clone the repository:
+    bash
+    git clone https://github.com/salihkobas1/dsa210-project.git
+    
+2. Navigate to the project folder:
+    bash
+    cd dsa210-project
+    
+3. Install dependencies:
+    bash
+    npm install
+    
+4. Start the development server:
+    bash
+    npm start
+
+
+
+---
 
 ## Future Scope
 
@@ -117,5 +120,4 @@ Key visualizations included in the application:
 - Automation: Integrate automated tracking tools for real-time spending analysis.
 - Scalability: Apply the methodology to larger datasets for broader applicability.
 - User Personalization: Allow users to input their own spending data to generate tailored insights.
-
 ---
