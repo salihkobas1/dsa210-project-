@@ -38,7 +38,7 @@ To run the project locally, you can follow these steps:
 
 Please visit my webpage for presentation:) : 
 
-[View Live Application](https://dsa210-project-rg7s.vercel.app)
+[Presentation Website](https://dsa210-project-rg7s.vercel.app)
 
 ---
 
