@@ -36,9 +36,9 @@ To run the project locally, you can follow these steps:
 
 ## Deployment
 
-Please visit my webpage for presentation:) : 
+Please visit my webpage for presentation :))))  
 
-[Presentation Website](https://dsa210-project-rg7s.vercel.app)
+[Website Live Application](https://dsa210-project-rg7s.vercel.app)
 
 ---
 
